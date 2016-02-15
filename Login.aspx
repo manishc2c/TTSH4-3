@@ -46,7 +46,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2 class="welcome-note">OpenShift 3</h2>
+                        <h1><font face="verdana" color="red"><class="welcome-note">Click2Cloud's OpenShift Visual Studio Extension</font></h1>
+                        <p><font face="verdana" color="white">tool to manage Dot Net application on Redhat's OpenShift Cloud</font></p>
                     </div>
                 </div>
             </div>
