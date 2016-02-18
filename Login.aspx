@@ -47,7 +47,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h1><font face="verdana" color="red"><class="welcome-note">Click2Cloud's OpenShift Visual Studio Extension</font></h1>
-                        <p><font face="verdana" color="white">tool to manage Dot Net application on Redhat's OpenShift Cloud</font></p>
+                        <p><font face="verdana" color="white">True DevOps to create and manage .Net applications on OpenShift cloud.</font></p>
                     </div>
                 </div>
             </div>
