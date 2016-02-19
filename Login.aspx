@@ -101,7 +101,7 @@
                     </div>
                     <div class="col-md-6 align-right">
                         <h4>A Product of Click2Cloud Inc.</h4>
-                        <p>Copyright &copy; 2016 Click2Cloud Inc., Nagpur</p>
+                        <p>Copyright &copy; 2016 Click2Cloud Inc., Redmond</p>
                     </div>
                 </div>
             </div>
